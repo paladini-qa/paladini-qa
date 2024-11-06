@@ -1,8 +1,8 @@
 # Olá! Eu sou [Seu Nome] 👋
 
 <!-- Links para redes sociais e/ou GitHub Stats podem vir aqui -->
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
+![GitHub followers](https://img.shields.io/github/followers/paladini-qa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/paladini-qa?style=social)
 
 ## 👨‍💻 Sobre mim
 Sou estagiário de QA (Quality Assurance) apaixonado por garantir a qualidade de software e oferecer a melhor experiência para os usuários. Atualmente, estou desenvolvendo minhas habilidades em testes de software e automação, e aprendendo como contribuir para equipes de desenvolvimento ágeis.
@@ -28,7 +28,7 @@ Aqui estão alguns projetos e scripts de testes que estou desenvolvendo para mel
 - [Estudo de Casos de Teste](link_para_o_projeto): documentações e exemplos de casos de teste manuais e automatizados para diferentes cenários.
 
 ## 📈 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladini-qa&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](link_do_linkedin)
