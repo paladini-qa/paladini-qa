@@ -30,5 +30,5 @@ Here are a few projects and test scripts I’m working on to improve my skills:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladini-qa&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paladini-qa/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paladini-qa)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:paladini.qa@gmail.com)
