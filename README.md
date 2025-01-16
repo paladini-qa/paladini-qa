@@ -9,7 +9,6 @@ I'm a QA intern passionate about ensuring software quality and delivering the be
 
 ## "Quality is built in, not tested in." – Ron Jeffries
 
-- 🌱 Currently learning: Automated tests;
 - 🎯 Goal: To become a specialist in Quality Assurance.
 - 📘 Fun fact: I love exploring the dev world, even though I'm not one 😂.
 
