@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/paladini-qa?style=social)
 
 ## 👨‍💻 About Me
-I'm a QA intern passionate about ensuring software quality and delivering the best experience for users. Currently, I am studying Computer Science at the Federal University of Technology – Paraná, Medianeira campus.
+I'm a QA passionate about ensuring software quality and delivering the best experience for users. Currently, I am studying Computer Science at the Federal University of Technology – Paraná, Medianeira campus.
 
 ## "Quality is built in, not tested in." – Ron Jeffries
 
